@@ -1,0 +1,5 @@
+{
+  "name": "SportBac Gestion",
+  "description": "Application de gestion des épreuves sportives (Bac Sport) : importation des élèves, saisie des performances, calcul des notes selon barème et génération de rapports par établissement.",
+  "requestFramePermissions": []
+}
